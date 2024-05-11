@@ -15,8 +15,8 @@
 * **ZZ_fig_*.R** contains code for generating figures
 
 ## Data
-* **data.csv** contains epidemic data obtained by organizing raw data.
-* txt files in folder 'raw_data' contains raw data of COVID-19 outbreak during December, 2021 to January, 2022, which was copied from the epidemic announcements of Health Commission of Shaanxi province (http://sxwjw.shaanxi.gov.cn/sy/wjyw/index_1.html).
+* **data.csv** contains epidemic data obtained by organizing raw data
+* txt files in folder 'raw_data' contains raw data of COVID-19 outbreak during December, 2021 to January, 2022, which was copied from the epidemic announcements of Health Commission of Shaanxi province (http://sxwjw.shaanxi.gov.cn/sy/wjyw/index_1.html)
 
 ## Figures
 Contains pdf files for the figures in the manuscript
