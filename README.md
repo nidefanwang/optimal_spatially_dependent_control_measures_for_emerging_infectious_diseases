@@ -16,3 +16,6 @@
 
 ## Data
 * **data.csv** contains epidemic data obtained by organizing raw data which was copied from the epidemic announcements of Health Commission of Shaanxi province (http://sxwjw.shaanxi.gov.cn/sy/wjyw/index_1.html).
+
+## Figures
+Contains pdf files for the figures in the manuscript
