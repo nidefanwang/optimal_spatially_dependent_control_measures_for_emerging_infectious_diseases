@@ -20,8 +20,10 @@
 
 ## Output
 * **samp.Rdata** is the posterior sample of estimated parameters in the epidemic model and is from **main.R**
+* **Out.Rdata** is from **CI.R** and is used to make Figure fig_fit
 * **SA_*.Rdata** are results of simulated annealing algorithm and are from **parallel_SA.R**
-* **Mat_*.Rdata** and **r*.Rdata** are results from **ZZ_fig_simulation.R**
+* **Mat_*.Rdata** and **rii.Rdata** are results from **ZZ_fig_simulation.R**
+* **ctmc_*.Rdata** are results of simulations of the stochastic epidemic model and are from **ctmc_simu.R**, used to make Figure fig_sim (C1)-(C4)
 
 ## Figures
 Contains pdf files for the figures in the manuscript
