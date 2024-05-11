@@ -16,7 +16,7 @@
 
 ## Data
 * **data.csv** contains epidemic data obtained by organizing raw data
-* txt files in folder 'raw_data' contains raw data of the COVID-19 outbreak in districts and counties of Xi'an City, Shaanxi Province, China during December, 2021 to January, 2022, which was copied from the epidemic announcements of Health Commission of Shaanxi province (http://sxwjw.shaanxi.gov.cn/sy/wjyw/index_1.html)
+* txt files in folder 'raw_data' contains raw data of the COVID-19 outbreak in districts and counties of Xi'an City, Shaanxi Province, China during December, 2021 to January, 2022, which was copied from the epidemic announcements of Health Commission of Shaanxi province (available at http://sxwjw.shaanxi.gov.cn/sy/wjyw/index_1.html)
 
 ## Figures
 Contains pdf files for the figures in the manuscript
