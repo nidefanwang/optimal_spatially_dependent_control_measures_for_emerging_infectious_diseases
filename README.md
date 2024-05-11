@@ -3,9 +3,9 @@
 * **model.R** contains code for the epidemic model
 * **cal_popflow.R** contains code of geographical location data, population and GDP data, and the function to calculate the movement rate matrix
 * **sol.R** contains code for solving the epidemic model in parameter estimation
-* **sol_ocp.R** contains code for solving the epidemic model in optimal control problem
 * **distr_post.R** contains code of posterior distribution of unknown parameters
 * **CI.R** contains code for obtaining the credible interval of fitted value of data
+* **sol_ocp.R** contains code for solving the epidemic model in optimal control problem
 * **SA_det.R** contains code for conducting simulated annealing algorithm
 * **parallel_SA.R** contains code for conducting parallel computing of simulated annealing algorithm
 * **Events.R** contains code of all events of the stochasitc epidemic model
