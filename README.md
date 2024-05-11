@@ -19,9 +19,9 @@
 * txt files in folder 'raw_data' contains raw data of the COVID-19 outbreak in Xi'an City, Shaanxi Province, China during December, 2021 to January, 2022, which was copied from the epidemic announcements of Health Commission of Shaanxi province (available at http://sxwjw.shaanxi.gov.cn/sy/wjyw/index_1.html)
 
 ## Output
-**samp.Rdata** is the posterior sample of estimated parameters in the epidemic model and is from **main.R**
-**SA_*.Rdata** are results of simulated annealing algorithm and are from **parallel_SA.R**
-**Mat_*.Rdata** and **r*.Rdata** are results from **ZZ_fig_simulation.R**
+* **samp.Rdata** is the posterior sample of estimated parameters in the epidemic model and is from **main.R**
+* **SA_*.Rdata** are results of simulated annealing algorithm and are from **parallel_SA.R**
+* **Mat_*.Rdata** and **r*.Rdata** are results from **ZZ_fig_simulation.R**
 
 ## Figures
 Contains pdf files for the figures in the manuscript
