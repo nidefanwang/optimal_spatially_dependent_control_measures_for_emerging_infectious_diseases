@@ -1,6 +1,8 @@
 
+# solve for zeroing constant (eta_zero in the manuscript)
 # 24h of 2021-12-04 is time t=0, row name of data2 indicates new isolated cases number in 0-24h of the day (e.g. row name 1 is t in period (1,2]).
 
+source('R/main.R'); 
 data  <-  data2;
 rownames(data)  =   0:46;
 
