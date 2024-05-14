@@ -26,4 +26,4 @@
 * **ctmc_*.Rdata** are results of simulations of the stochastic epidemic model and are from **ctmc_simu.R**, used to make Figure fig_sim (C1)-(C4)
 
 ## Figures
-Contains pdf files for the figures in the manuscript
+PDF files for the figures in the manuscript
