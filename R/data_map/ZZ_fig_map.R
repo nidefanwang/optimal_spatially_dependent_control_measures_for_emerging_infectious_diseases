@@ -147,8 +147,6 @@ xlim2 = 109.70;
 ylim1 = 33.72;
 ylim2 = 34.74;
 fig_map + coord_quickmap(xlim = c(xlim1, xlim2), ylim = c(ylim1, ylim2)) +
-  geom_point(aes(x=109.037807, y=34.270926), color = "#FFC0CB", size = 1.8, pch="♥") + 
-  geom_point(aes(x=108.658516, y=34.26256), color = "#FFC0CB", size = 1.8, pch="♥") + 
   theme( axis.text.x = element_text(size=size_axis, color = 'grey76',vjust = 0, hjust = 0.5, angle = 0) ) +  
   theme( axis.text.y = element_text(size=size_axis, color = 'grey76',vjust = 0.5, hjust = 1, angle = 0)) +
   labs(x='',y='');
